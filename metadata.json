@@ -1,0 +1,6 @@
+{
+  "name": "C# Handbook",
+  "description": "Интерактивный справочник по языку C# и платформе .NET: 6 подробных лекций по 10 страниц и закрепительные тесты на 30 вопросов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
